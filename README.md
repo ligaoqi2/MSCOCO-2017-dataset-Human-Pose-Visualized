@@ -36,7 +36,7 @@
 
    For example, you want to see this:
    <div align="center">
-    <img src="figure/id.png", width="400" alt><br>
+    <img src="figure/id.png", width="100" alt><br>
     Example
    </div>
 
